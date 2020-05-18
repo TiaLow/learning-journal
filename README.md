@@ -1,6 +1,6 @@
 # What a Growth Mindset Means to Me
 
-- Here is where I will talk about that. 
+_Here is where I will write about this_
 
 ## Three Things to Help Maintain a Growth Mindset
 
