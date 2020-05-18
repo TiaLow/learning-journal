@@ -4,7 +4,7 @@ _A growth mindset means remembering it has been a long time since I've been in a
 
 _A growth mindset means being ok with a lot of ¯\_(ツ)_/¯_
 
-_and being ok with spending serious time in ![#The Learning Pit](http://olliebhni.blogspot.com/2017/04/the-leaning-pit.html)
+_and being ok with spending serious time in_ ![#The Learning Pit](https://www.challenginglearning.com/wp-content/uploads/2020/02/Pit-2-Simple-Version-web.jpg)
 
  
 ## Three Things to Help Maintain a Growth Mindset
