@@ -6,4 +6,4 @@
 
 1. Ask for help!  
 2. Not only is failing possible, it is part of the process.
-3. I'm on my **own journey**, not anyone else's 
+3. I'm on my **own journey** for my **own reasons**, not anyone else's.
