@@ -1,0 +1,3 @@
+- Markdown is a way to style text on the web
+- Regular text with some non-alphabetic characters to dictate styling
+- 
