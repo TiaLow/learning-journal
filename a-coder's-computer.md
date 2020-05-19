@@ -12,7 +12,7 @@
 - Must be a space between the command and first command line argument (or "option")
 - Terminal can be found at Applications - Utilities (or command+space and type Terminal)
 
-#### NAVIGATION 
+### Navigation 
 - we refer to a file or directory on command line as "path" (a means to get to a particular file or directory on the system) 
   - absolute paths: specify a location in relation to root directory
   - relative paths: specify location in relation to where we currently are in system
@@ -24,10 +24,13 @@
  - ls (list): gives you the listing of what's in your current directory
  - ls -l (list): indicates a long listing
  - ls /etc (list): list our current directory's contents
- - 
+ - cd (change directory):cd [location]
  
  
  Shortcuts
  - use up and down arrows to see the history of recent commands used 
+ - if you run command cd without any arguments it will always take you back to home directory
+ - Tab Completion [link to what this means](https://ryanstutorials.net/linuxtutorial/navigation.php)
+ 
 
 
