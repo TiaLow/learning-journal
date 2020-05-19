@@ -15,7 +15,7 @@ _and being ok with spending serious time in_ ![#The Learning Pit](https://www.ch
 
 # Table of Contents 
 
-1. Learning Markdown
-2. A Coder's Computer 
-3. Revisions and the Cloud 
+1. [Learning Markdown](https://tialow.github.io/learning-journal/learning-markdown)
+2. [A Coder's Computer](https://tialow.github.io/learning-journal/a-coder's-computer) 
+3. [Revisions and the Cloud](https://tialow.github.io/learning-journal/revisions-and-cloud) 
 
