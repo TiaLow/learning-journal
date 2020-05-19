@@ -20,6 +20,15 @@
   - relative paths: specify location in relation to where we currently are in system
 - root directory denoted by single backslash and is at the top of the hierarchical structure
 
+# Paths
+
+- tilde (~) shortcut to home directory
+  - ex: 
+- dot (.) reference to current directory
+  - ex: 
+- dotdot (..) reference to parent directory 
+  - ex: 
+
 ### Command Examples
 
  - pwd (Print Working Directory): tells you what directory you're currently working in
