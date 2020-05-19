@@ -1,7 +1,7 @@
 ## Text Editors
 
 - Basic editor that comes with your computer. Basic of basic, doesn't do anything extra for you. Must use a plain text editor (no options for bold, underline, etc)
-- Third party options like Visual Studio Code that have some additional features like code completion and syntax highlighting. 
+- Third party options like Visual Studio Code that have some additional features like code completion and syntax highlighting. VS Code is what we'll use.
 
 **It's important for software developers to be mindful of what text editor to use because ultimately it can make your life writing code easier.**
 
@@ -25,9 +25,12 @@
 - tilde (~) shortcut to home directory
   - ex: 
 - dot (.) reference to current directory
-  - ex: 
+  - ex: cp ____ .    
+  - ___ is where you would type where you're moving it from, and this commands would copy a file to the current directory
+  - ex: code .
+  - this would open VS Code in whatever directory you're currently in 
 - dotdot (..) reference to parent directory 
-  - ex: 
+  - ex: cd .. to move back a directory
 
 ### Command Examples
 
@@ -36,8 +39,20 @@
  - ls -l (list): indicates a long listing
  - ls /etc (list): list our current directory's contents
  - la -a (list): list the contents of directory, including hidden files 
- - cd (change directory):cd [location] to move to another directory
+ - cd (change directory):cd location to move to another directory
+   - Ex: cd Desktop
  - file (to figure out file type): file [path]
+ - mkdir: make directory (folder)
+ - touch: make file
+ - rm: remove file
+ - rm -r: remove folder
+ - cp: copy file
+   - ex: cp /Desktop/Photos/filename /Desktop/Photos/DifferentFolder
+ - mv: move file
+   - ex: mv /Desktop/Photos/filename .
+ - mv: rename
+   - ex: mv main.html index.html 
+ - code . : will open VS Code in whatever directory youre in 
  
  
  #### Shortcuts

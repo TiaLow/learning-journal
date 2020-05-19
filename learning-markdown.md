@@ -5,7 +5,7 @@
 
 ## Other important things to remember? 
 - GitHub uses their own version of Markdown which is GFM _GitHub Flavored Markdown_
-- It's 'markdown' not 'markup'! (I'm still committing this to memory)
+- It's 'markdown' not 'markup'!
 
 ## Testing examples out 
 
