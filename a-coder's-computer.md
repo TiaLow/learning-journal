@@ -24,6 +24,7 @@
  - ls (list): gives you the listing of what's in your current directory
  - ls -l (list): indicates a long listing
  - ls /etc (list): list our current directory's contents
+ - la -a (list): list the contents of directory, including hidden files 
  - cd (change directory):cd [location] to move to another directory
  - file (to figure out file type): file [path]
  
@@ -32,11 +33,17 @@
  - use up and down arrows to see the history of recent commands used 
  - if you run command cd without any arguments it will always take you back to home directory
  - Tab Completion [link to what this means](https://ryanstutorials.net/linuxtutorial/navigation.php)
+ - If you use tab completion before encountering the space in the directory name then the terminal will automatically escape any spaces in the name for you.
  
  ### Other Important Notes
  - Everything is a file! (Test file, directory, keyboard, monitor, etc)
  - Under Linux, system ignores file extensions (.gif, .doc, .exe, etc)
- - 
+   - Linux is *extensionless* system
+ - Linux **is** case sensitive
+ - Be careful of spaces in file and directory names
+   - EX: cd 'Holiday Photos' since without the quotes it is seen as two separate command line arguments. Anything inside quotes is considered single item. 
+ - Backslash is an escape character. Putting it before something nullifies the special meaning of the next character. 
+ - If a file or directory begins with . then it is hidden. 
  
 
 
