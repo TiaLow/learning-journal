@@ -72,6 +72,8 @@
    - EX: cd 'Holiday Photos' since without the quotes it is seen as two separate command line arguments. Anything inside quotes is considered single item. 
  - Backslash is an escape character. Putting it before something nullifies the special meaning of the next character. 
  - If a file or directory begins with . then it is hidden. 
+
+ [Back to home](README.md)
  
 
 

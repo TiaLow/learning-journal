@@ -36,4 +36,10 @@ Important questions to consider re the audience and their needs:
     - *Grouping* related content into *blocks* or *chunks*
     - Present certain types of info in *similar* visual style
 
-### STRUCTURE REVIEW
+### STRUCTURE REVIEW - Ch 1
+
+
+
+[Back to home](README.md)
+
+

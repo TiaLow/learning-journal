@@ -12,3 +12,5 @@ _and being ok with spending serious time in_ ![#The Learning Pit](https://www.ch
 1. Ask for help!  
 2. Not only is failing possible, it is part of the process.
 3. I'm on my **own journey** for my **own reasons**, not anyone else's.
+
+[Back to home](README.md)
