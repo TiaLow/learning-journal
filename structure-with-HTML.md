@@ -40,8 +40,6 @@ Important questions to consider re the audience and their needs:
 
 *HTML describes the structure of pages*
 
-'''<p>words</p>'''
-
 - Start with **doctype html**
 - Don't need to, but you should still use **html opening and closing tags**
 - Can use ! for code comments (pg 182)
