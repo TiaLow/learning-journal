@@ -40,6 +40,8 @@ Important questions to consider re the audience and their needs:
 
 *HTML describes the structure of pages*
 
+'''<p>words</p>'''
+
 - Start with **doctype html**
 - Don't need to, but you should still use **html opening and closing tags**
 - Can use ! for code comments (pg 182)
@@ -47,7 +49,7 @@ Important questions to consider re the audience and their needs:
 - **Met** element lives inside head element, contains info about web page
     - Not visible to users
     - Doesnt have closing tag, **empty element**
-    - description, keywords, robots
+- description, keywords, robots
 - Opening and closing **tags**
 - **Element** is what lives inside tags
     - **Attributes** tell more about elements
