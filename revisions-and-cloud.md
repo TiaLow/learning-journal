@@ -1,4 +1,4 @@
-# Revisions and the Cloud - Day 3 reading notes
+# Revisions and the Cloud - 03 reading notes
 
 ## Lab 03 Takeaways
 - make sure to always ACP!
