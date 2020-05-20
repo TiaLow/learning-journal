@@ -1,6 +1,12 @@
 
 # Welcome to my webpage!
 
+HTML - content
+
+CSS - makes things pretty
+
+JAVE - makes things functional
+
 ## Table of Contents 
 
 1. [Growth Mindset](growth-mindset.md)

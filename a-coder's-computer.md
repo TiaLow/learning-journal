@@ -53,6 +53,7 @@
  - mv: rename
    - ex: mv main.html index.html 
  - code . : will open VS Code in whatever directory youre in 
+ - '''<br>''' : will break the code, shows whatever is in between three quotes
  
  
  #### Shortcuts
