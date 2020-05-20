@@ -30,6 +30,12 @@ Day 3 - Reading 05 - Notes
     - **Property**: indicate aspects of the element you want to change (can have several separated by semi colon)
     - **Values**: specify settings for chosen properties
 
+#### Cascading Nature of CSS
+- if two selectors identical, last one takes precedence
+- if one selector is more specific, takes precedence
+- add !important after property value to indicate should be considered more important than other rules
+- **Can create generic rules that apply to whole doc and then overwrite with more specific rules*
+
 
 
 
