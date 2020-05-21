@@ -15,4 +15,16 @@ Every word made up of numbers. Images made up of pixels, each pixel made up of c
 
 Circuits turn binary signals into everything you use computers for.
 
+"The operating system is a program with special abilities that let it control the other software on the computer"
+
+Honestly:
+
+&#x1f92f;
+
+ ****mind blown***
+
+
+
+
+
 [Back to home](README.md)
