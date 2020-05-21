@@ -5,7 +5,7 @@ HTML - content
 
 CSS - makes things pretty
 
-JAVA - makes things functional
+JAVASCRIPT - makes things functional
 
 ## Table of Contents 
 
