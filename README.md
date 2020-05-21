@@ -16,7 +16,7 @@ JAVASCRIPT - makes things functional
 5. [Day 2 - Structure with HTML](structure-with-HTML.md)
 6. [Day 3 - Design with CSS](design-with-CSS.md)
 7. [Day 3 - A Computer's Architecture](computer-architecture.md)
-8. [Day 4 page 1](day-4-1.md)
+8. [Day 4 - Programming with JavaScript](programming-with-javascript.md)
 9. [Day 4 page 2](day-4-2.md)
 10. [Day 5 page 1](day-5-1.md)
 11. [Day 5 page 2](day-5-2.md)
