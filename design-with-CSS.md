@@ -36,8 +36,31 @@ Day 3 - Reading 05 - Notes
 - add !important after property value to indicate should be considered more important than other rules
 - **Can create generic rules that apply to whole doc and then overwrite with more specific rules*
 
+## COLOR
 
+- RGB
+    - rgb(100,100,90)
 
+- HEX CODES
+    - #EE3E80
+
+- COLOR NAMES
+    - DarkCyan
+
+- HSLA
+    - Hue (angle between 0 and 360), saturation (percentage), lightness (percentage, 0 white 50 normal 100 black), alpha (opacity, number between 0 and 1.0, .5 50% transparency)
+
+- CSS3- opacity and rgba (a is opacity percentage so 50% would be rgba (0,0,0,.5)
+
+**FUN FACT**: Anything between /* stuff stuff stuffff */ will not show. It's called *commenting code*. To do this highlight + cmmd + /
+
+**Saturation** refers to the amount of gray in color
+
+**Brightness** refers to amount of black in color
+
+- *Brightness* only adds black, *lightness* offers both white and black
+
+**SEE PG 256 FOR INTERESTING WAYS TO WRITE RULES RE COLOR**
 
 
 [Back to home](README.md)
