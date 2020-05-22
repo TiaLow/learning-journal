@@ -22,9 +22,4 @@ Honestly:
 &#x1f92f;
 
 
-
-
-
-
-
 [Back to home](README.md)
