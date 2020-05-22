@@ -1,4 +1,9 @@
 
+<head>
+    <title>Learning Journal</title>
+</head>
+
+
 # Hello everyone!
 
 ### Welcome to my learning journal. It holds my notes from my week in 102, and is a work in progress. I may have spent a significant portion of the week in the learning pit, but it is oh-so-sweet when you find that foothole on the way out!
