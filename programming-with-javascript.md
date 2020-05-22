@@ -44,5 +44,18 @@ Examples:
 - Quotes around numbers make it a string and it wont be recognized as a number anymore 
 
 
+## Functions
+
+1. Series of statements grouped together because they perform specific task
+2. **Method** is same except created inside (and is part of) and object
+
+- Function name should describe task it's performing, when you ask it to perform task you are **calling** the function
+- Steps packaged up in code block
+- **Parameters** are pieces of info passed to function 
+- **Return value** is the answer to a function
+- Functions store code required to perform specific task
+- Script asks function to perform that task whenever needed
+- **Declaring functions that need information: put parameters in parathensis after function name
+
 
 [Back to home](README.md)
