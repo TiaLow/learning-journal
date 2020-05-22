@@ -18,17 +18,17 @@ Day 4 - Reading 8 - Notes
 ## Loops
 
 - **Loops check a condition**
- ### For
+### For
 - Run code for specific number of times
 - Usually condition is counter, used to tell how many times loop should run
     - Initialization
     - Condition
     - Update
 
- ### While
+### While
 - Code continues to loop as long as condition is true
 
- ### Do While
+### Do While
 - Like while but will always run statements in curlys at least once even if condition evaluates to false
 
 ## *GO BACK AND LOOK AT ROGER'S DIAGRAMS RE FOR WHILE*
