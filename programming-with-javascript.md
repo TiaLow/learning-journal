@@ -55,7 +55,7 @@ Examples:
 - **Return value** is the answer to a function
 - Functions store code required to perform specific task
 - Script asks function to perform that task whenever needed
-- **Declaring functions that need information: put parameters in parathensis after function name
+- **Declaring functions that need information: put parameters in parathensis after function name**
 
 
 [Back to home](README.md)
