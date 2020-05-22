@@ -1,11 +1,7 @@
 
-# Welcome to my webpage!
+# Hello everyone!
 
-HTML - content
-
-CSS - makes things pretty
-
-JAVASCRIPT - makes things functional
+### Welcome to my learning journal. It holds my notes from my week in 102, and is a work in progress. I may have spent a significant portion of the week in the learning pit, but it is oh-so-sweet when you find that foothole on the way out!
 
 ## Table of Contents 
 
