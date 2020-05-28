@@ -4,9 +4,9 @@
 </head>
 
 
-# Hello everyone!
+## Hello! New to the world of computer programming, and this is my learning journal.
 
-### Welcome to my learning journal. It holds my notes from my week in 102, and is a work in progress. I may have spent a significant portion of the week in the learning pit, but it is oh-so-sweet when you find that foothole on the way out!
+### It holds my notes from my week in 102, and is a work in progress. I may have spent a significant portion of the week in the learning pit, but it is oh-so-sweet when you find that foothole on the way out!
 
 ## Table of Contents 
 
