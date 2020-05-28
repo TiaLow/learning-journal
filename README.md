@@ -20,7 +20,7 @@
 8. [Day 3 - A Dynamic Webpage](dynamic-webpage.md)
 9. [Day 4 - Programming with JavaScript](programming-with-javascript.md)
 10. [Day 4 - Operators and Loops](operators-and-loops.md)
-11. [Escape Characters](escapecharacters.md)
+11. [Escape Characters](escape-characters.md)
 
 
 
