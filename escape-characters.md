@@ -24,7 +24,11 @@
 <br>
 &euro &euro;
 <br>
-
+&trade &trade;
+<br>
+&yen &yen;
+<br>
+### NEAT!
 
 
 
