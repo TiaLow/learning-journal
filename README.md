@@ -20,8 +20,7 @@
 8. [Day 3 - A Dynamic Webpage](dynamic-webpage.md)
 9. [Day 4 - Programming with JavaScript](programming-with-javascript.md)
 10. [Day 4 - Operators and Loops](operators-and-loops.md)
-11. [Day 5 page 1](day-5-1.md)
-12. [Day 5 page 2](day-5-2.md)
+
 
 
 
