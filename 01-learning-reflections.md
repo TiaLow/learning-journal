@@ -15,3 +15,10 @@
 *I've also worked many jobs at this point in my life and been a part of many different work environments. I've worked by myself, I've worked in teams, I've worked with friends and I've also learned how to work with people I find difficult. I think my experience with people will help me in this new endeavor as well.*
 
 #### Thursday, June 4
+
+*I have many motivations for learning! Some are more general and existential, and others more specific to this new learning adventure.*
+
+*One of the ways I find purpose in life is through the belief that a big part of the reason for it is to learn and (try) to understand as much as we can about the people, cultures, environment and world around us. To travel to try to better understand other humans and their cultures, in order to better understand ourselves and our significance. This feeds my curiosity and my love of learning.*
+
+*More specifically, I have a few motivators for starting these courses and trying to learn computer programming. I'd like to have the skills that will open the door on other opportunities in the future. After working many jobs that didn't challenge me, I'd like to be in an industry and career where I'm always challenged to learn new things by my peers and individually. And in fact, **must** always learn new things in order to stay relevant! It seems you can never really top out in this industry. I'd like to set myself up for better potential to work remotely so that I can do the type of slow traveling that I enjoy. And to be perfectly honest, I'd like to have the type of earning potential to be able to keep up with the **obscenely** expensive and rising costs of living, specifically healthcare, in this country.*
+
