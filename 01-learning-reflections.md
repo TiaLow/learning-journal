@@ -26,7 +26,7 @@
 
 *I have many 'whys' for being back in school, some more general and others more specific.*
 
-*I'm learning web development as a new profession because I want to be in a career where I can always learn new things, and build upon my skills in a meaningful way. I like to build things, I have a very active imagination, and I'd like to have the tools to be able to build the things I imagine. I'm learning web development to finally set myself up with the toolbelt for a profession I could have for the rest of my working life. I'm learning web develpment to learn hard skills, after spending a decade and a half in jobs learning soft skills (which are also **very** important!)*
+*I'm learning web development as a new profession because I want to be in a career where I can always learn new things, and build upon my skills in a meaningful way. I like to build things, I have a very active imagination, and I'd like to have the tools to be able to build the things I imagine. I'm learning web development to finally set myself up with the tool-belt for a profession I could have for the rest of my working life. I'm learning web development to learn hard skills, after spending a decade and a half in jobs learning soft skills (which are also **very** important!)*
 
 *I'm learning CSS because I care about the aesthetics and design of a page and I think it's important in the way a user interacts with a page.*
 
