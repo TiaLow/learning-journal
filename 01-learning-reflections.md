@@ -22,3 +22,13 @@
 
 *More specifically, I have a few motivators for starting these courses and trying to learn computer programming. I'd like to have the skills that will open the door on other opportunities in the future. After working many jobs that didn't challenge me, I'd like to be in an industry and career where I'm always challenged to learn new things by my peers and individually. And in fact, **must** always learn new things in order to stay relevant! It seems you can never really top out in this industry. I'd like to set myself up for better potential to work remotely so that I can do the type of slow traveling that I enjoy. And to be perfectly honest, I'd like to have the type of earning potential to be able to keep up with the **obscenely** expensive and rising costs of living, specifically healthcare, in this country.*
 
+#### Friday, June 5
+
+WHY am i learning web development as a new profession?
+
+WHY and i learning a particular tool or technique?
+
+
+#### Monday, June 6
+
+*One of my internal forces for learning is independence. I greatly value my independence and no matter what my changing circumstances in life may be, it's important to me to feel confident I'll be able to support myself. One of the ways I hope to grow this confidence is through this current learning endeavor, to acquire the skills to maintain relevancy in a changing workforce.*
