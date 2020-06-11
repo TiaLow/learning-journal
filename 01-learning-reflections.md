@@ -31,14 +31,20 @@
 *I'm learning CSS because I care about the aesthetics and design of a page and I think it's important in the way a user interacts with a page.*
 
 
-#### Monday, June 6
+#### Monday, June 8
 
 *One of my internal forces for learning is independence. I greatly value my independence and no matter what my changing circumstances in life may be, it's important to me to feel confident I'll be able to support myself. One of the ways I hope to grow this confidence is through this current learning endeavor, to acquire the skills to maintain relevancy in a changing workforce.*
 
-#### Tuesday, June 7
+#### Tuesday, June 9
 
 *Today I'm reflecting on a very challenging day, which is actually a great lead-in to this learning journal reflection. So far the most unexpected part of this experience is frankly how much of a challenge it all is for me.*
 
 *I knew this would be **a challenge** and I knew I would struggle,  but I'm having a difficult time accepting the struggle. It has been a very long time since I've had to try so hard to understand something, and that prolonged frustration has been difficult for me. It an interesting juxtaposition because it's both discouraging **and** motivating.*
 
 *Even though I know it's "normal" to feel behind, and "normal" to feel frustrated, and "normal" to feel **imposter syndrome**, it's still been difficult for me to sit for so long in that. I am trying to get more comfortable with that feeling, and I am trying to accept the encouragement from instructors and peers, and it's all part of the process.*
+
+#### Wednesday, June 10
+
+*Today I learned that I really do know more than I think I know! I relied heavily on the help of the TAs and my classmates the last couple days, and today while refactoring my code I spent a bit of time really reading everything through, top to bottom, trying to make sure I actually understood the work I'd done. It sunk in a bit more, and in trying to work through the last bit of the problem I realized I actually did have the knowledge I needed to solve it.*
+
+*I'm trying to find a balance between challenging myself to spend the serious brainpower and time to work through the problems myself, knowing when the Google machien is my best bet, and when I should be asking for help from the TAs and my class. I've never been great at asking for help, and that has been one of the big challenges of this for me so far.*
