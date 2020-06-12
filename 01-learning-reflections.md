@@ -48,3 +48,9 @@
 *Today I learned that I really do know more than I think I know! I relied heavily on the help of the TAs and my classmates the last couple days, and today while refactoring my code I spent a bit of time really reading everything through, top to bottom, trying to make sure I actually understood the work I'd done. It sunk in a bit more, and in trying to work through the last bit of the problem I realized I actually did have the knowledge I needed to solve it.*
 
 *I'm trying to find a balance between challenging myself to spend the serious brainpower and time to work through the problems myself, knowing when the Google machien is my best bet, and when I should be asking for help from the TAs and my class. I've never been great at asking for help, and that has been one of the big challenges of this for me so far.*
+
+#### Thursday, June 11
+
+*I believe the learning pyramid displayed does pretty much reflect the ways I best learn in the appropriate percentages. If anything I would swap Reading and Lecture, as I believe I retain more from hearing spoken word than reading.*
+
+*I wholeheartedly agree with learning by doing and learning by teaching being the most effective ways to learn!*
