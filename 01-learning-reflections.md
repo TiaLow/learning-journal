@@ -60,8 +60,3 @@
 *Today I'm reflecting on **imposter syndrome** and to what extent I experience those feelings. Now that I understand this phrase, I can recognize that it is something I've experienced to different degrees throughout my life. When I think of big life changes I've made, whether it be starting a new job in a new field, or leaving the country to travel for a year, I've admit I've felt this to some extent. At the moment, in this new endeavour, I've fluctuated between about a 3 and a 7 on a scale of 1-10. It depends on the day and the task, and if I've been able to prove to myself that I understand something.*
 
 *I recognize that experiencing this feeling can get in the way of asking for help, and I am really trying to break the mold when it comes to that. It also helps to know that my peers are experiencing the same sort of feelings. There some sense of comfort is a shared sense of imposter syndrome!*
-
-
-
-On a scale from 1 (least) to 10 (most), to what extent do you experience these feelings? Have you always felt the way you do now? If you have successfully lowered the number you’d use to rate your Imposter Syndrome, how have you done so?
-
