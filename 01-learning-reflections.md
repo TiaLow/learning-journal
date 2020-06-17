@@ -64,3 +64,10 @@
 #### Monday, June 15
 
 *Today I learned that it is ok to take it down a notch, go at my own pace during lab, and do what's best for me to solidify the learning. I was a bit all over the place last week during the Salmon Cookies project, and I relied on a lot of help from TAs which I definitely needed, but in hindsight it may have prevented me from learning it the best I could. This week I decided that I wanted to be a bit more methodical about it and slow down to let the concepts and code stick a bit more. I realized it would be beneficial for me to spend more time on the early stages of the process, like wireframing and building the CSS bones. I also decided I wanted to code along with a replay of the lecture today, so I could go at my own pace and start and stop when I needed. Consequently I find myself with just a half hour of normal lab time left, significantly behind my peers in the process of building today's lab. But **I recently learned** that this is ok! What's important is that I'm learning, not that I'm finishing first.*
+
+#### Tuesday, June 16
+
+**Experience is what you get when you didn’t get what you wanted.**
+
+*I'm still working on developing and sticking to strategies to learn from the disappointments, so that the net experience becomes productive and positive. One thing I try to do everyday is end the day on a positive note. Even if I'm knee deep frustrated in a lab, I try to at least remember or say out loud what my small wins were for the day (or last few hours). I try to remind myself that I'm choosing to be here!* 
+
