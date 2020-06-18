@@ -71,3 +71,9 @@
 
 *I'm still working on developing and sticking to strategies to learn from the disappointments, so that the net experience becomes productive and positive. One thing I try to do everyday is end the day on a positive note. Even if I'm knee deep frustrated in a lab, I try to at least remember or say out loud what my small wins were for the day (or last few hours). I try to remind myself that I'm choosing to be here!* 
 
+#### Wednesday, June 17
+
+*In this course so far I have experienced both ends of the spectrum, where something has been more difficult for me to learn that I expected it to be and also where it has been easier than expected. I expected the logic-based stuff of JavaScript to come easier to me, having previously really enjoyed math class! But I've found it to be a different kind of logic-based math than when I was expecting that has been much more challenging!*
+
+*One thing that has come easier to me than I thought was getting back into the swing of a structured learning environment. It's been over 10 years since school for me, and a couple months since I had the responsiblity of a 8-5 job, and I was anticipating a much more rugged transition to the strucutre of these days. I've been in the mindset for a while that I would throw myself into this, so that helped in getting used to everything. I've found I really enjoy being around peers again, and being inspired and learning from the people I'm spending my days with.*
+
