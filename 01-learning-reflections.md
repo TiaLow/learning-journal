@@ -77,3 +77,6 @@
 
 *One thing that has come easier to me than I thought was getting back into the swing of a structured learning environment. It's been over 10 years since school for me, and a couple months since I had the responsiblity of a 8-5 job, and I was anticipating a much more rugged transition to the strucutre of these days. I've been in the mindset for a while that I would throw myself into this, so that helped in getting used to everything. I've found I really enjoy being around peers again, and being inspired and learning from the people I'm spending my days with.*
 
+#### Thursday, June 18
+
+*Today I learned that even if I remember having successful group projects back in university (over 10 years ago!) every team and group interaction is different, and that just having a laid-back and flexible personality might not cut it! Team interaction needs to be active and intentional and can sometimes take a decent amount of work for it to not have to feel like too much work.* 
