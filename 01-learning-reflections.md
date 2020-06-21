@@ -80,3 +80,9 @@
 #### Thursday, June 18
 
 *Today I learned that even if I remember having successful group projects back in university (over 10 years ago!) every team and group interaction is different, and that just having a laid-back and flexible personality might not cut it! Team interaction needs to be active and intentional and can sometimes take a decent amount of work for it to not have to feel like too much work.* 
+
+#### Friday, June 19 - Sunday, June 21
+
+***What have you learned from the process of keeping a learning journal?***
+
+*Throughout the process of keeping a learning journal, I've learned that the overall process of reflection is important to me in order to check in throughout this new learning endeavor. I've kept journals in the past and I've always felt the benefit. I'm a person who appreciates having the additional time to think on something, as sometimes it takes me a while to digest the bigger-picture things. I've learned that I need some time to step back and reflect, in order to feel a bit grounded. It provides book-ends to my day, in a sense.*
