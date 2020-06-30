@@ -86,3 +86,8 @@
 ***What have you learned from the process of keeping a learning journal?***
 
 *Throughout the process of keeping a learning journal, I've learned that the overall process of reflection is important to me in order to check in throughout this new learning endeavor. I've kept journals in the past and I've always felt the benefit. I'm a person who appreciates having the additional time to think on something, as sometimes it takes me a while to digest the bigger-picture things. I've learned that I need some time to step back and reflect, in order to feel a bit grounded. It provides book-ends to my day, in a sense.*
+
+#### Monday, June 29
+### Post-201 Reflections
+
+*I am reflecting now on Code 201 and all of the learning that occurred. Beyond the advancement in the technical skills, I feel a big shift in my attitude towards my learning. I found Code 102 a challenge, but 201 really tested my ability to push forward through the stress and frustration. I found a bit more grace in cutting myself some slack, and reminding myself that none of this is meant to be easy and that I'm not alone in the struggle. This has been a transition from my high school and university learning careers, where I didn't have to work quite so hard at the advancement of skills. Throughout Code 201 I've grown more comfortable in this challenge, and in the necessity of asking for help. This feels like a huge shift for me and I'm looking forward to getting started in 301 with this new shift in perspective.*
