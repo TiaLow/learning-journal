@@ -8,7 +8,6 @@
 
 ### It holds my notes from my week in 102 as well as my Learning Reflections from 201 and beyond. I may have spent a significant portion of time in the learning pit, but it is oh-so-sweet when you find that foothole on the way out!
 
-[Learning Reflections](01-learning-reflections.md)
 ## Table of Contents 
 
 1. [Day 1 - Growth Mindset](growth-mindset.md)
